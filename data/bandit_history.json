@@ -1,0 +1,273 @@
+[
+  {
+    "event_type": "bandit_session",
+    "payload": {
+      "session_id": "20260317_224800",
+      "strategy": "epsilon_greedy",
+      "steps_completed": 1200,
+      "total_reward": 411.021191,
+      "cumulative_regret": 9.86
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 1,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Landing Page Refresh",
+      "reward": 0.208051,
+      "cumulative_reward": 0.208051,
+      "instant_regret": 0.04,
+      "cumulative_regret": 0.04
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 61,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.471719,
+      "cumulative_reward": 19.935137,
+      "instant_regret": 0.0,
+      "cumulative_regret": 0.96
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 121,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.3207,
+      "cumulative_reward": 41.42867,
+      "instant_regret": 0.0,
+      "cumulative_regret": 1.73
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 181,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.311648,
+      "cumulative_reward": 61.703144,
+      "instant_regret": 0.0,
+      "cumulative_regret": 2.33
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 241,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.293438,
+      "cumulative_reward": 82.015979,
+      "instant_regret": 0.0,
+      "cumulative_regret": 2.65
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 301,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.218121,
+      "cumulative_reward": 103.187933,
+      "instant_regret": 0.0,
+      "cumulative_regret": 2.83
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 361,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.287431,
+      "cumulative_reward": 123.569586,
+      "instant_regret": 0.0,
+      "cumulative_regret": 3.25
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 421,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.327959,
+      "cumulative_reward": 144.845801,
+      "instant_regret": 0.0,
+      "cumulative_regret": 3.8
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 481,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.353238,
+      "cumulative_reward": 165.99402,
+      "instant_regret": 0.0,
+      "cumulative_regret": 4.28
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 541,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.225894,
+      "cumulative_reward": 186.690227,
+      "instant_regret": 0.0,
+      "cumulative_regret": 4.56
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 601,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.495859,
+      "cumulative_reward": 207.119713,
+      "instant_regret": 0.0,
+      "cumulative_regret": 4.77
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 661,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.241347,
+      "cumulative_reward": 226.826177,
+      "instant_regret": 0.0,
+      "cumulative_regret": 5.5
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 721,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.159259,
+      "cumulative_reward": 247.000152,
+      "instant_regret": 0.0,
+      "cumulative_regret": 5.86
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 781,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.287523,
+      "cumulative_reward": 267.067638,
+      "instant_regret": 0.0,
+      "cumulative_regret": 6.28
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 841,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.435174,
+      "cumulative_reward": 288.177253,
+      "instant_regret": 0.0,
+      "cumulative_regret": 6.85
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 901,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Landing Page Refresh",
+      "reward": 0.360626,
+      "cumulative_reward": 308.824172,
+      "instant_regret": 0.04,
+      "cumulative_regret": 7.47
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 961,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.316578,
+      "cumulative_reward": 329.026063,
+      "instant_regret": 0.0,
+      "cumulative_regret": 7.72
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 1021,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.353652,
+      "cumulative_reward": 349.719207,
+      "instant_regret": 0.0,
+      "cumulative_regret": 8.1
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 1081,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.319482,
+      "cumulative_reward": 371.147233,
+      "instant_regret": 0.0,
+      "cumulative_regret": 8.54
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  },
+  {
+    "event_type": "bandit_step",
+    "payload": {
+      "step_index": 1141,
+      "strategy": "epsilon_greedy",
+      "selected_arm": "Referral Bonus",
+      "reward": 0.340107,
+      "cumulative_reward": 391.007967,
+      "instant_regret": 0.0,
+      "cumulative_regret": 9.21
+    },
+    "created_at": "2026-03-17T22:48:00Z"
+  }
+]

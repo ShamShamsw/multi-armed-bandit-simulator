@@ -1,0 +1,74 @@
+[
+  {
+    "arm_id": "arm_001",
+    "label": "classroom_campaign",
+    "name": "Email Reminder",
+    "true_mean": 0.18,
+    "reward_std": 0.08,
+    "description": "Low-conversion but cheap baseline arm.",
+    "tags": [
+      "baseline",
+      "email"
+    ]
+  },
+  {
+    "arm_id": "arm_002",
+    "label": "classroom_campaign",
+    "name": "Push Notification",
+    "true_mean": 0.24,
+    "reward_std": 0.1,
+    "description": "Fast user reach with moderate variance.",
+    "tags": [
+      "mobile",
+      "push"
+    ]
+  },
+  {
+    "arm_id": "arm_003",
+    "label": "classroom_campaign",
+    "name": "Short Video Teaser",
+    "true_mean": 0.29,
+    "reward_std": 0.12,
+    "description": "Higher upside with content quality swings.",
+    "tags": [
+      "video",
+      "creative"
+    ]
+  },
+  {
+    "arm_id": "arm_004",
+    "label": "classroom_campaign",
+    "name": "Referral Bonus",
+    "true_mean": 0.35,
+    "reward_std": 0.09,
+    "description": "Best expected conversion with stable behavior.",
+    "tags": [
+      "referral",
+      "growth"
+    ]
+  },
+  {
+    "arm_id": "arm_005",
+    "label": "classroom_campaign",
+    "name": "Coupon Offer",
+    "true_mean": 0.27,
+    "reward_std": 0.11,
+    "description": "Good conversion with occasional noisy spikes.",
+    "tags": [
+      "promo",
+      "discount"
+    ]
+  },
+  {
+    "arm_id": "arm_006",
+    "label": "classroom_campaign",
+    "name": "Landing Page Refresh",
+    "true_mean": 0.31,
+    "reward_std": 0.1,
+    "description": "Strong performer after optimization updates.",
+    "tags": [
+      "web",
+      "ux"
+    ]
+  }
+]

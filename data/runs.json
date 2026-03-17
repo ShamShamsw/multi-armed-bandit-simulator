@@ -1,0 +1,14 @@
+[
+  {
+    "session_id": "20260317_224800",
+    "demo_sequence_label": "classroom_campaign",
+    "strategy_selected": "epsilon_greedy",
+    "strategy_runs": 3,
+    "steps_completed": 1200,
+    "runtime_points": 60,
+    "elapsed_ms": 1500.6276,
+    "best_strategy": "epsilon_greedy",
+    "finished_at": "2026-03-17T22:48:01Z",
+    "run_file": "C:\\Users\\jhase\\OneDrive\\Documents\\Jacob\\Programing\\student-interview-prep\\languages\\python\\beginner-projects\\48-multi-armed-bandit-simulator\\data\\outputs\\run_20260317_224800.json"
+  }
+]
